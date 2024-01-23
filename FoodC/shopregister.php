@@ -61,7 +61,7 @@ if (isset($_POST["submit"])) {
     </nav>
     
 
-    <img src="aa.png" class="login4to" alt="">
+    <!-- <img src="aa.png" class="login4to" alt=""> -->
     <div class="container">
         <div class="main-box register">
             <h1>Shop Registration</h1>

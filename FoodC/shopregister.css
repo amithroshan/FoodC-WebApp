@@ -25,7 +25,7 @@ header{
     justify-content: space-between;
 }
 .logo{
-    width: 135px;
+    width: 100px;
 }
 .navbar{
     display: flex;
@@ -74,19 +74,6 @@ header{
     color: #162928;
 } 
 
-.login4to{
-    position: fixed;
-    /* width: 45%; */
-    top: 0;
-    z-index: 1000;
-    background: transparent;
-    padding: 30px 13%;
-    display: flex;
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    height: 170px;
-}
 
 body{
     width: 100%;
@@ -94,7 +81,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url(background.png);
+    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url(wwwwww.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -103,8 +90,8 @@ body{
 
 .container{
     position: relative;
-    height: 490px;
-    width: 360px;
+    height: 430px;
+    width: 333px;
     background: transparent;
     border-radius: 24px;
     border: 1px solid rgba(257,257,257,0.4);
@@ -119,7 +106,7 @@ body{
 }
 
 .main-box{
-    padding: 50px;
+    padding: 40px;
     width: 100%;
 }
 .main-box h1{
@@ -130,10 +117,10 @@ body{
 }
 .input-box{
     position: relative;
-    height: 52px;
+    height: 48px;
     width: 100%;
     border-bottom: 2px solid #162938;
-    margin: 12px 0;
+    margin: 8px 0;
 }
 .input-box label{
     position: absolute;
@@ -275,7 +262,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 1rem 0 2rem 0;
+    margin: 10px 0px;
 }
 .socials li{
     margin: 0 10px;
@@ -296,7 +283,7 @@ footer{
 .footer-bootom{
     background: #000;
     width: 100vw;
-    padding: 10px 0;
+    padding: 0px 0;
     text-align: center;
 }
 
@@ -341,7 +328,7 @@ header .bx{
     
     .container {
         width: 70%;
-        height: 450px;
+        height: 440px;
         /* border: none; */
         padding: 20px;
     }
@@ -393,7 +380,7 @@ header .bx{
     /**/
 
     .socials li{
-        margin: 0px 5px -30px 5px;
+        margin: 0px 5px 0px 5px;
     }
     .footer-bootom p{
         font-size: 11px;

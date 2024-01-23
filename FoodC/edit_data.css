@@ -25,7 +25,7 @@ header{
     justify-content: space-between;
 }
 .logo{
-    width: 140px;
+    width: 100px;
 }
 .navbar{
     display: flex;
@@ -129,7 +129,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 1rem 0 2rem 0;
+    margin: 10px 0px;
 }
 .socials li{
     margin: 0 10px;
@@ -178,7 +178,7 @@ form {
     max-width: 320px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #fff;
+    border: 1px solid black;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -218,7 +218,6 @@ input[type="submit"]:hover {
     backdrop-filter: blur(20px);
     /* background-color: rgba(255, 255, 255, 0.9); */
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding-bottom: 180px;
     font-size: 14px;
 }
@@ -368,7 +367,7 @@ header .bx{
         width: 125px;
     }
     .socials li{
-        margin: 0px 5px -30px 5px;
+        margin: 0px 5px 0px 5px;
     }
     .footer-bootom p{
         font-size: 11px;

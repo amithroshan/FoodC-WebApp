@@ -26,7 +26,7 @@ header{
     justify-content: space-between;
 }
 .logo{
-    width: 140px;
+    width: 100px;
 }
 .navbar{
     display: flex;
@@ -83,7 +83,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url(background.png);
+    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url(background.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -192,7 +192,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 1rem 0 2rem 0;
+    margin: 10px 0px;
 }
 .socials li{
     margin: 0 10px;
@@ -273,7 +273,7 @@ header .bx{
         line-height: 36px;
         margin: 05px 0 7px;
         font-family: 'Luckiest Guy', cursive;
-        color: #dae71f;
+        color: #d6f524;
         text-shadow:
             -1px -1px 0 black, /* Top-left shadow */
             1px -1px 0 black, /* Top-right shadow */
@@ -331,10 +331,10 @@ header .bx{
         cursor: pointer;
     }
     .logo{
-        width: 125px;
+        width: 120px;
     }
     .socials li{
-        margin: 0px 5px -30px 5px;
+        margin: 0px 5px 0px 5px;
     }
     .footer-bootom p{
         font-size: 11px;

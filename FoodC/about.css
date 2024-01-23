@@ -25,7 +25,7 @@ header{
     justify-content: space-between;
 }
 .logo{
-    width: 140px;
+    width: 100px;
 }
 .navbar{
     display: flex;
@@ -143,7 +143,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 1rem 0 2rem 0;
+    margin: 10px 0px;
 }
 .socials li{
     margin: 0 10px;
@@ -258,10 +258,10 @@ header .bx{
         cursor: pointer;
     }
     .logo{
-        width: 125px;
+        width: 100px;
     }
     .socials li{
-        margin: 0px 5px -30px 5px;
+        margin: 0px 5px 0px 5px;
     }
     .footer-bootom p{
         font-size: 11px;

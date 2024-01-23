@@ -106,7 +106,7 @@ if (isset($_POST["submit"])) {
     </footer>
 
     <!--container-->
-    <img src="aa.png" class="login4to" alt="">
+    <!-- <img src="aa.png" class="login4to" alt=""> -->
     <div class="container">
         <div class="main-box login">
             <h1>Login</h1>
